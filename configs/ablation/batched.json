@@ -1,0 +1,5 @@
+{
+    "vlm_method": "batched",
+    "read_video_method": "uniform",
+    "return_segments": false
+}

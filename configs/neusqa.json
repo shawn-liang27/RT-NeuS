@@ -1,0 +1,13 @@
+{
+  "pipeline": "neusqa",
+  "comment": "NeuS-QA baseline as reported (was nsvs_only_ablation.py + experiment_results/neusqa/config.json)",
+  "puls": "single",
+  "sample_rate": 1,
+  "segment_mode": "single",
+  "bridge_seconds": 10,
+  "context_seconds": 10,
+  "num_of_frame_in_sequence": 3,
+  "vlm_detection_threshold": 0.349,
+  "detection_threshold": 0.5,
+  "tl_satisfaction_threshold": 0.6
+}

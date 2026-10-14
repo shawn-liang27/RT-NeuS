@@ -1,0 +1,14 @@
+{
+  "pipeline": "rtneus",
+  "comment": "RT-NeuS on mlvu; segment_mode auto = intersect for Until specs, union for Until-free specs",
+  "puls": "multi",
+  "clip_threshold": 0.22,
+  "segment_mode": "auto",
+  "bridge_seconds": 3,
+  "context_seconds": 3,
+  "handover_tolerance_seconds": 8,
+  "num_of_frame_in_sequence": 3,
+  "vlm_detection_threshold": 0.349,
+  "detection_threshold": 0.5,
+  "tl_satisfaction_threshold": 0.6
+}

@@ -1,0 +1,5 @@
+{
+    "vlm_method": "sequential",
+    "read_video_method": "stage2",
+    "return_segments": false
+}
